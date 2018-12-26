@@ -1,4 +1,4 @@
-Title: Another example gallery
+Title: Drawings
 Author: JL
 
-And a description with *Markdown* syntax.
+Photo gallery for [Puzzle Table](https://github.com/jonlamb-gh/openscad-models-rust/tree/master/wood-projects/table)

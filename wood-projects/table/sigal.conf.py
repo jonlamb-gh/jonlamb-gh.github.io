@@ -49,6 +49,7 @@ img_size = (800, 600)
 # https://github.com/leaflet-extras/leaflet-providers#providers)
 # show_map = False
 # leaflet_provider = 'OpenStreetMap.Mapnik'
+show_map = False
 
 # File extensions that should be treated as images
 # img_extensions = ['.jpg', '.jpeg', '.png', '.gif']
