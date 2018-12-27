@@ -150,6 +150,7 @@ ignore_files = []
 
 # File extensions that should be treated as video files
 # video_extensions = ['.mov', '.avi', '.mp4', '.webm', '.ogv', '.3gp']
+video_extensions = ['.mkv']
 
 # Video format
 # specify an alternative format, valid are 'webm' (default) and 'mp4'
@@ -170,6 +171,7 @@ ignore_files = []
 
 # Size of resized video (default: (480, 360))
 # video_size = (480, 360)
+video_size = (800, 600)
 
 # -------------
 # Miscellaneous
